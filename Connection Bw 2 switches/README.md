@@ -1,4 +1,4 @@
-# 🖧 Connection Between 2 Switches
+#  Connection Between 2 Switches
 
 This Cisco Packet Tracer exercise demonstrates how to connect **two switches** and test connectivity between connected devices by **sending packets**.
 
@@ -9,7 +9,7 @@ To establish a network connection between two switches and verify successful dat
 
 ---
 
-## 🧩 Network Setup
+##  Network Setup
 **Devices Used:**
 - 2 Switches (e.g., Switch0 and Switch1)
 - 2 PCs (PC0 and PC1)
@@ -21,7 +21,7 @@ To establish a network connection between two switches and verify successful dat
 
 ---
 
-## 🔧 Configuration Steps
+##  Configuration Steps
 1. **Assign IP Addresses:**
    - PC0 → `192.168.1.10`
    - PC1 → `192.168.1.11`
@@ -41,7 +41,7 @@ To establish a network connection between two switches and verify successful dat
 
 ---
 
-## 📡 Testing Packet Transmission
+##  Testing Packet Transmission
 - Used the **Add Simple PDU tool** in Packet Tracer to send packets from PC0 to PC1.  
 - Verified that packets were **successfully delivered**, confirming correct switch interconnection.
 
